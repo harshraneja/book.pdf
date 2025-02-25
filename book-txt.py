@@ -37,8 +37,6 @@ import fitz
 
 # page = 0
 
-# text = file[page].get_text()
-# print(text)
 
 
 def read_book(name):
